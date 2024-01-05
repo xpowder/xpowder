@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning python/ Django 
 - 💞️ I’m looking to collaborate on projects 
 
+![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
 
 <!---
 xpowder/xpowder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
