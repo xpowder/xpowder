@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning python/ Django 
 - 💞️ I’m looking to collaborate on projects 
 
-![image](https://unsplash.com/photos/flat-lay-photography-of-crayons-inside-mug-VEp_ElZouAE)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
 
 <!---
 xpowder/xpowder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
