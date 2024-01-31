@@ -11,6 +11,6 @@
 # Contact 
 * ✔ [LinkedIn](https://www.linkedin.com/in/kadmar-mouad-835b16280/)
 * ✔ [Twitter](https://twitter.com/MouadM1031)
-* ✔ [[Email](kadmarmouad8@gmail.com)
+* ✔ [Email](kadmarmouad8@gmail.com)
 
 
