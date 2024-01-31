@@ -5,16 +5,12 @@
 
 
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning python / Django 
-- 💞️ I’m looking to collaborate on Software Engineering projects.
+- 🌱 Currently I am learning everything that can help me in my career 
+- 💞️ I’m looking to collaborate on Software Engineering or databases projects.
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/kadmar-mouad-835b16280/)
-* [Twitter](https://twitter.com/MouadM1031)
-* [Email](kadmarmouad8@gmail.com)
+* ✔ [LinkedIn](https://www.linkedin.com/in/kadmar-mouad-835b16280/)
+* ✔ [Twitter](https://twitter.com/MouadM1031)
+* ✔ [[Email](kadmarmouad8@gmail.com)
 
-<!---
-xpowder/xpowder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
